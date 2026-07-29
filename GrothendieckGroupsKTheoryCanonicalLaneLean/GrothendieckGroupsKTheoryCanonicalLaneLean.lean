@@ -1,0 +1,13 @@
+import canonicalLaneMathlib.AdmissibleClass
+import HautevilleHouse.GrothendieckGroupsKTheoryCanonicalLaneLean.GrothendieckGroupConstruction
+import HautevilleHouse.GrothendieckGroupsKTheoryCanonicalLaneLean.K0Group
+import HautevilleHouse.GrothendieckGroupsKTheoryCanonicalLaneLean.K1Group
+import HautevilleHouse.GrothendieckGroupsKTheoryCanonicalLaneLean.BottPeriodicity
+
+namespace HautevilleHouse
+namespace GrothendieckGroupsKTheoryCanonicalLaneLean
+
+-- This file is the root of the GrothendieckGroupsKTheoryCanonicalLaneLean Lean proof package.
+
+end GrothendieckGroupsKTheoryCanonicalLaneLean
+end HautevilleHouse
